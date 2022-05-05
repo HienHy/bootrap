@@ -45,7 +45,7 @@
 
 .overlay {
     position: absolute;
-    min-height: 700px;
+    min-height: 100vh;
     min-width: 100%;
     left: 0;
     top: 0;
